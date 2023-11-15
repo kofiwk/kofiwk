@@ -6,7 +6,13 @@ Hello👋🏽, I'm William and I'm an aspiring Software and Web Developer🧑�
 Just started using flutter, and I'm open to learning new languages and technologies.
 
 Other interest:
+
 🎮Gaming
+
 🎬Movies (A whole lot 😂)
+
 🎧Music
+
 ⚽Football
+
+
