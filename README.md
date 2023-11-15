@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @kofiwk
-- 👀 I’m interested in Web Development, Mobile Application Development & IT Support
-- 🌱 I’m currently learning Web Development (MERN Stack), Mobile App Development (Flutter)
-- 📫 How to reach me 
+Hello👋🏽, I'm William and I'm an aspiring Software and Web Developer🧑🏽‍💻.
 
-<!---
-kofiwk/kofiwk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍I currently live in Kasoa, Central Region
+📚Studies Computing with Business Management at IPMC College of Technology.
+
+Just started using flutter, and I'm open to learning new languages and technologies.
+
+Other interest:
+🎮Gaming
+🎬Movies (A whole lot 😂)
+🎧Music
+⚽Football
